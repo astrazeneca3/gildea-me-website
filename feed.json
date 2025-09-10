@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Liam Gildea - Music",
+    "description": "",
+    "home_page_url": "https://astrazeneca3.github.io/gildea-me-website",
+    "feed_url": "https://astrazeneca3.github.io/gildea-me-website/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Liam Gildea"
+    },
+    "items": [
+    ]
+}

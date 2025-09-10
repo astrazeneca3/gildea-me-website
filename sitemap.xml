@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://astrazeneca3.github.io/gildea-me-website/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://astrazeneca3.github.io/gildea-me-website/</loc>
+</url>
+<url>
+<loc>https://astrazeneca3.github.io/gildea-me-website/test.html</loc>
+<lastmod>2025-09-10T12:15:49+10:00</lastmod>
+<image:image>
+<image:loc>https://astrazeneca3.github.io/gildea-me-website/media/posts/5/525245048_1304172631710737_5575077681212357045_n.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+</urlset>
